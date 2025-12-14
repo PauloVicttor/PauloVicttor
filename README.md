@@ -1,6 +1,6 @@
 # Paulo Victor
 
-Minimal. Direto. 
+Minimal. Direto.
 
 ---
 
@@ -39,7 +39,7 @@ Linguagens utilizadas nos projetos públicos.
 ## Tecnologias
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,nestjs,git,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,nestjs,docker,html,css,git,linux,vscode" />
 </p>
 
 ---
@@ -53,3 +53,4 @@ Linguagens utilizadas nos projetos públicos.
 ---
 
 > Build first. Optimize later.
+
